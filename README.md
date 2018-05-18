@@ -8,12 +8,19 @@ The data included records of 283,400 alumni, who graduated from Iowa State Unive
 In order reach our landmark of predicting the Iowa State University Alumni Population Profile by the year 2050, we needed to seek answer to a lot of questions:
 
 •	What does the data tell us about the past enrollment and graduation rates at ISU?
+
 •	Are there any patterns?
+
 •	Are there any possible sub-groups within the ISU alumni population?
+
 •	How can we study the life expectancy of the ISU alumni based on these sub-groups?
+
 •	Is there a need of any third-party datasets? If yes, what kind of third party datasets might be needed to fulfill the gap left by the original data?
+
 •	What kind of assumptions need to be made while generating forecasting models?
+
 •	How do we choose the most efficient model to forecast the alumni in the upcoming years?
+
 •	Are there any key determinants that would drive our forecasting results?
 
 A mix of available modern day analytical tools were used to answer these questions. Results obtained should help ISU Foundation in setting up a realistic funding targets based for each upcoming years. This would eventually impact every experience at Iowa State University - from funding scholarships for young men and women who will become tomorrow’s leaders, to advancing knowledge through faculty teaching and research, to maintaining programs and facilities that provide an unparalleled education.
